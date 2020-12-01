@@ -14,7 +14,11 @@ public class HelloGit {
 		System.out.println("这是在线编辑，测试eclipse本地更新性能");
 		System.out.println("这是在线编辑，测试eclipse本地更新性能");
 		System.out.println("这是本地编辑，测试github在线更新更新性能");
+
 		System.out.println("这是提交之前的更新");
+
+		System.out.println("这是在线编辑，第二次测试eclipse本地更新性能");
+
 	}
 
 }
