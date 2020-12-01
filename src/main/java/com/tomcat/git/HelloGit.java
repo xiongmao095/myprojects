@@ -11,9 +11,14 @@ public class HelloGit {
 		System.out.println("主干添加");
 		System.out.println("测试SSH");
 		System.out.println("第二次测试SSH");
+
 		
 
 		
+
+
+		System.out.println("这是在线编辑，测试eclipse本地更新性能");
+		System.out.println("这是在线编辑，测试eclipse本地更新性能");
 
 	}
 
